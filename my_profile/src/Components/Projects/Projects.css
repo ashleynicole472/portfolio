@@ -1,0 +1,9 @@
+.card {
+    max-width: 20rem;
+    align-content: space-between;
+}
+
+.cards-center {
+    align-items: flex-end;
+    padding: 15px;
+}
