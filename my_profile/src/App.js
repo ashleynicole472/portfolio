@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import NavBar from './Components/NavBar/NavBar.js';
+import Welcome from './Components/Welcome/Welcome.js';
 import AboutMe from './Components/AboutMe/AboutMe.js';
 import Projects from './Components/Projects/Projects.js';
 import Contact from './Components/Contact/Contact.js';
@@ -11,6 +12,7 @@ class App extends Component {
     return (
         <div>
             <NavBar />
+            <Welcome />
             <AboutMe />
             <Projects />
             <Contact />
