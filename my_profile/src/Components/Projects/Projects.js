@@ -5,13 +5,13 @@ class Projects extends Component {
     render(){
         return(
             <div>
-                <div className="row">
+                <div className="row w3-center w3-animate-bottom">
                     <div className="col-md-12">
                         <h1>My Projects</h1> <p> More to view on my GitHub <i className="fab fa-github"></i></p>
                         <hr />
                     </div>
                 </div>
-                <div className="row cards-center">
+                <div className="row cards-center w3-center w3-animate-bottom">
                     <div className="col-sm-3">
                         <div className="card border-light mb-3">
                             <div className="card-header">Project
@@ -53,7 +53,7 @@ class Projects extends Component {
                         </div>
                     </div>
                 </div>
-                <div className="row cards-center">
+                <div className="row cards-center w3-center w3-animate-bottom">
                     <div className="col-sm-3">
                         <div className="card border-warning mb-3">
                             <div className="card-header">Header
