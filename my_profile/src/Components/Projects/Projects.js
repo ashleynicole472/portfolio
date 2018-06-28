@@ -4,10 +4,10 @@ import './Projects.css';
 class Projects extends Component {
     render(){
         return(
-            <div>
+            <div className="projects-container">
                 <div className="row w3-center w3-animate-bottom">
                     <div className="col-md-12">
-                        <h1>My Projects</h1> <p> More to view on my GitHub <i className="fab fa-github"></i></p>
+                        <h1>My Projects</h1> <h5> View more projects on my <a href="http://www.github.com/ashleynicole472"><strong>GitHub</strong><i className="fab fa-github"></i></a></h5>
                         <hr />
                     </div>
                 </div>

@@ -7,7 +7,7 @@ class NavBar extends Component {
         return(
             <div>
                 <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-                    <a className="navbar-brand" href="#">Ashley Taylor</a>
+                    <h6 className="Ashley">Ashley Taylor</h6>
                     <button
                         className="navbar-toggler"
                         type="button"
