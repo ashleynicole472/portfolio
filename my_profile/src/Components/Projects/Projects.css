@@ -5,7 +5,7 @@
     background-size: cover;
 }
 .card {
-    max-width: 20rem;
+    height: 15rem;
     align-content: space-between;
 }
 
