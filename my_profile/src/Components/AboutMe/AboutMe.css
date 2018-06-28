@@ -1,0 +1,32 @@
+.aboutme-container {
+    background-image:
+    linear-gradient(
+      to top right,
+      blue, #f06d06
+    );
+}
+
+.About-title {
+    margin-left: 10px;
+    color: #009eda;
+}
+
+.Ashley {
+    color: white;
+}
+
+.Aboutme-text {
+    font-size: 20px;
+}
+
+.seperate {
+    background-color: #acb5be;
+    align-self: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+p {
+    text-align: center;
+    color: white;
+}

@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './NavBar.css';
 
+
 class NavBar extends Component {
     render(){
         return(
@@ -21,7 +22,7 @@ class NavBar extends Component {
                     <div className="collapse navbar-collapse" id="navbarColor02">
                         <ul className="navbar-nav mr-auto">
                             <li className="nav-item active">
-                                <a className="nav-link" to="/AboutMe">About<span className="sr-only">(current)</span></a>
+                                <a className="nav-link" href="/About">About<span className="sr-only">(current)</span></a>
                             </li>
                             <li className="nav-item">
                                 <a className="nav-link" href="/Projects">Projects</a>
