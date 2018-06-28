@@ -1,13 +1,14 @@
-.jumbotron {
-    background-image: linear-gradient(
-        to top right,
-        blue, #f06d06
-        );
-    cursor: pointer;
+.Welcome-Container{
+    background-image: url(./Images/welcomebackground.jpg);
+    background-repeat: round;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 575px;
 }
 
 .welcome {
     text-align: center;
+    margin-top: 75px;
     font-family: 'Oleo Script Swash Caps', cursive;
 
 }

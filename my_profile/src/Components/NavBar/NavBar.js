@@ -5,7 +5,7 @@ import './NavBar.css';
 class NavBar extends Component {
     render(){
         return(
-            <div>
+            <div className="navBar">
                 <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
                     <h6 className="Ashley">Ashley Taylor</h6>
                     <button

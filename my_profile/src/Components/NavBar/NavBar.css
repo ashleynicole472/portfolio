@@ -1,3 +1,11 @@
+.navBar {
+  top: 0;
+  z-index: 100;
+  position: fixed !important;
+  width: 100%;
+  opacity: 0.9;
+}
+
 li {
     font-size: 20px;
     font-family: 'Mina', sans-serif;
