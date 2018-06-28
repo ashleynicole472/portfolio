@@ -1,10 +1,14 @@
 .About-title {
     margin-left: 10px;
     color: #009eda;
+    font-family: 'Oleo Script Swash Caps', cursive;
 }
 
-.Ashley {
+.About-Ashley {
+    margin-left: 55px;
     color: white;
+    font-size: 40px;
+    font-family: 'Pattaya', sans-serif;
 }
 
 .Aboutme-text {

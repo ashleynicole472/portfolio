@@ -9,7 +9,7 @@ class AboutMe extends Component {
                     <div className="col-sm-10">
                         <h3 className="About-title">
                             About
-                            <small className="Ashley"> Ashley Taylor</small>
+                            <h4 className="About-Ashley"> Ashley Taylor</h4>
                         </h3>
                         <hr />
                     </div>

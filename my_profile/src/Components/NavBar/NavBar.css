@@ -1,7 +1,11 @@
 li {
     font-size: 20px;
+    font-family: 'Mina', sans-serif;
+    margin-left: 65px;
 }
 
 .Ashley {
-    font-size: 30px;
+    color: white;
+    font-size: 40px;
+    font-family: 'Pattaya', sans-serif;
 }
