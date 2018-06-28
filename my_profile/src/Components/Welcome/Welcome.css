@@ -7,8 +7,13 @@
 }
 
 .welcome {
+    font-size: 145px !important;
     text-align: center;
-    margin-top: 75px;
+    margin-top: 175px;
     font-family: 'Oleo Script Swash Caps', cursive;
 
+}
+
+.words {
+    text-align: center;
 }

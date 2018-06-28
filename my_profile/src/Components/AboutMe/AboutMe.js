@@ -9,8 +9,8 @@ class AboutMe extends Component {
                     <div className="col-sm-10">
                         <h3 className="About-title">
                             About
-                            <h4 className="About-Ashley"> Ashley Taylor</h4>
                         </h3>
+                            <h4 className="About-Ashley"> Ashley Taylor</h4>
                         <hr />
                     </div>
                 </div>
@@ -24,17 +24,18 @@ class AboutMe extends Component {
                             asdhflaksdhfkjashdflkjahsdfkjahsdfkljhasdfkjhasdkfjhasdfkjha
                         kjsahfkahfkjlshfkjhsflkjshdflkjahsdfkasdhfklajsdfasdfkjasdf
                             asdhflaksdhfkjashdflkjahsdfkjahsdfkljhasdfkjhasdkfjhasdfkjha
-                        <hr className="seperate"/>
-                            kjsahfkahfkjlshfkjhsflkjshdflkjahsdfkasdhfklajsdfasdfkjasdf
-                                asdhflaksdhfkjashdflkjahsdfkjahsdfkljhasdfkjhasdkfjhasdfkjha
-                            kjsahfkahfkjlshfkjhsflkjshdflkjahsdfkasdhfklajsdfasdfkjasdf
-                                asdhflaksdhfkjashdflkjahsdfkjahsdfkljhasdfkjhasdkfjhasdfkjha
-                            kjsahfkahfkjlshfkjhsflkjshdflkjahsdfkasdhfklajsdfasdfkjasdf
-                                asdhflaksdhfkjashdflkjahsdfkjahsdfkljhasdfkjhasdkfjhasdfkjha
-                            kjsahfkahfkjlshfkjhsflkjshdflkjahsdfkasdhfklajsdfasdfkjasdf
-                                asdhflaksdhfkjashdflkjahsdfkjahsdfkljhasdfkjhasdkfjhasdfkjha
                         </p>
-                        <p className="Aboutme-text">kjsahfkahfkjlshfkjhsflkjshdflkjahsdfkasdhfklajsdfasdfkjasdf
+                        <hr className="seperate"/>
+                        <p className="Aboutme-text">k
+                            kjsahfkahfkjlshfkjhsflkjshdflkjahsdfkasdhfklajsdfasdfkjasdf
+                                asdhflaksdhfkjashdflkjahsdfkjahsdfkljhasdfkjhasdkfjhasdfkjha
+                            kjsahfkahfkjlshfkjhsflkjshdflkjahsdfkasdhfklajsdfasdfkjasdf
+                                asdhflaksdhfkjashdflkjahsdfkjahsdfkljhasdfkjhasdkfjhasdfkjha
+                            kjsahfkahfkjlshfkjhsflkjshdflkjahsdfkasdhfklajsdfasdfkjasdf
+                                asdhflaksdhfkjashdflkjahsdfkjahsdfkljhasdfkjhasdkfjhasdfkjha
+                            kjsahfkahfkjlshfkjhsflkjshdflkjahsdfkasdhfklajsdfasdfkjasdf
+                                asdhflaksdhfkjashdflkjahsdfkjahsdfkljhasdfkjhasdkfjhasdfkjha
+                        jsahfkahfkjlshfkjhsflkjshdflkjahsdfkasdhfklajsdfasdfkjasdf
                             asdhflaksdhfkjashdflkjahsdfkjahsdfkljhasdfkjhasdkfjhasdfkjha
                         kjsahfkahfkjlshfkjhsflkjshdflkjahsdfkasdhfklajsdfasdfkjasdf
                             asdhflaksdhfkjashdflkjahsdfkjahsdfkljhasdfkjhasdkfjhasdfkjha
