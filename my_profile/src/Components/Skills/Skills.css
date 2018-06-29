@@ -22,6 +22,16 @@
     height: auto;
 }
 
+.skills-icon-image {
+    width: 100%;
+    height: 12vw;
+    object-fit: scale-down;
+}
+
 .card-header {
     font-size: 30px;
+}
+
+.cards-bg {
+    background: linear-gradient(to bottom right, #8627a9 0%, #00ce6b 100%);
 }
