@@ -1,3 +1,14 @@
+.myprojects {
+    margin-top: 20px;
+    margin-left: 20px;
+    color: white;
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+.text {
+    font-family: 'Mina', sans-serif;
+}
+
 .projects-container {
     background-image: url(./Images/welcomebackground.jpg);
     background-repeat: round;
@@ -12,6 +23,16 @@
 .cards-center {
     align-items: flex-end;
     padding: 15px;
+}
+
+.project-image {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
 }
 
 a {
@@ -36,7 +57,7 @@ a {
   left: 0;
   right: 0;
   height: 100%;
-  width: 95.5%;
+  width: 97%;
   opacity: 0;
   transition: .5s ease;
   background-color: #008CBA;

@@ -4,28 +4,27 @@ import './AboutMe.css';
 class AboutMe extends Component {
     render(){
         return (
-            <div className="aboutme-container">
+            <div className="Aboutme-container">
                 <div className="row">
                     <div className="col-sm-10">
                         <h3 className="About-title">
-                            About
+                            About Myself :
                         </h3>
-                            <h4 className="About-Ashley"> Ashley Taylor</h4>
-                        <hr />
+                        <hr className="seperate"/>
                     </div>
                 </div>
                 <div className="row">
                     <div className="col-sm-12">
-                        <p className="Aboutme-text">kjsahfkahfkjlshfkjhsflkjshdflkjahsdfkasdhfklajsdfasdfkjasdf
-                            asdhflaksdhfkjashdflkjahsdfkjahsdfkljhasdfkjhasdkfjhasdfkjha
-                        kjsahfkahfkjlshfkjhsflkjshdflkjahsdfkasdhfklajsdfasdfkjasdf
-                            asdhflaksdhfkjashdflkjahsdfkjahsdfkljhasdfkjhasdkfjhasdfkjha
-                        kjsahfkahfkjlshfkjhsflkjshdflkjahsdfkasdhfklajsdfasdfkjasdf
-                            asdhflaksdhfkjashdflkjahsdfkjahsdfkljhasdfkjhasdkfjhasdfkjha
-                        kjsahfkahfkjlshfkjhsflkjshdflkjahsdfkasdhfklajsdfasdfkjasdf
-                            asdhflaksdhfkjashdflkjahsdfkjahsdfkljhasdfkjhasdkfjhasdfkjha
+                        <h4 className="About-Ashley">Hey there,</h4>
+                        <p className="Aboutme-text">
+                        Im Ashley Taylor and I am a front-end developer. My joy for front-end development has to have come from
+                        always being involved with art throughout my entire life. As a child I loved painting
+                        and drawing. During my highschool years I took many Advanced Placement digtal photography, black and white photography,
+                        painting, and pottry classes.
+                        Having been surrounded with art throughout my life, this has helped me when designing my own personal
+                        projects, and having an eye for detail.
+                        I enjoy the challange and 
                         </p>
-                        <hr className="seperate"/>
                         <p className="Aboutme-text">k
                             kjsahfkahfkjlshfkjhsflkjshdflkjahsdfkasdhfklajsdfasdfkjasdf
                                 asdhflaksdhfkjashdflkjahsdfkjahsdfkljhasdfkjhasdkfjhasdfkjha
