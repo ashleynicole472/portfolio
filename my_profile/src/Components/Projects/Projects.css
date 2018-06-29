@@ -9,6 +9,11 @@
     font-family: 'Mina', sans-serif;
 }
 
+.gitHub {
+    font-family: 'Mina', sans-serif;
+    margin-top: 15px;
+}
+
 .projects-container {
     background-image: url(./Images/welcomebackground.jpg);
     background-repeat: round;

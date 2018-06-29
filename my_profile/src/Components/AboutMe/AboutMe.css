@@ -6,6 +6,7 @@
     margin-top: 20px;
     margin-left: 20px;
     color: #009eda;
+    font-size: 50px;
     font-family: 'Oleo Script Swash Caps', cursive;
 }
 
@@ -18,13 +19,14 @@
 
 .Aboutme-text {
     font-size: 20px;
-    margin: 0 30px 0 30px;
+    text-align: left;
+    text-align: justify;
+    margin: 0 30px 0 55px;
     font-family: 'Mina', sans-serif;
 }
 
 .seperate {
     background-color: #acb5be;
-    align-self: center;
     margin-left: 10px;
     margin-right: 10px;
 }
