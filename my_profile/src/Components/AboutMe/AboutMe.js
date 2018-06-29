@@ -5,7 +5,7 @@ import './AboutMe.css';
 class AboutMe extends Component {
     render(){
         return (
-            <div className="Aboutme-container">
+            <div className="Aboutme-container animated fadeIn">
                 <div className="row">
                     <div className="col-sm-12">
                         <h3 className="About-title">

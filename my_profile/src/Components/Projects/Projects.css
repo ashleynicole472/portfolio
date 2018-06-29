@@ -1,3 +1,11 @@
+.projects-container {
+    background-image: url(./Images/welcomebackground.jpg);
+    background-repeat: round;
+    background-attachment: fixed;
+    background-size: cover;
+    margin-top: 87.26px;
+}
+
 .myprojects {
     margin-top: 20px;
     margin-left: 20px;
@@ -14,12 +22,6 @@
     margin-top: 15px;
 }
 
-.projects-container {
-    background-image: url(./Images/welcomebackground.jpg);
-    background-repeat: round;
-    background-attachment: fixed;
-    background-size: cover;
-}
 .card {
     height: 15rem;
     align-content: space-between;

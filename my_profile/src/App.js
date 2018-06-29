@@ -15,19 +15,20 @@ import './bootstrap.min.css';
 class App extends Component {
   render() {
     return (
-
-        <BrowserRouter>
-            <div>
-                <NavBar />
-                <Route path="/" component={Welcome} exact />
-                <Route path="/" component={AboutMe} exact />
-                <Route path="/About" component={AboutMe} />
-                <Route path="/Skills" component={Skills}/>
-                <Route path="/Projects" component={Projects}/>
-                <Route path="/Contact" component={Contact}/>
-                <Footer />
-            </div>
-        </BrowserRouter>
+        <div>
+            <NavBar />
+            <BrowserRouter>
+                <div>
+                    <Route path="/" component={Welcome} exact />
+                    <Route path="/" component={AboutMe} exact />
+                    <Route path="/About" component={AboutMe} />
+                    <Route path="/Skills" component={Skills}/>
+                    <Route path="/Projects" component={Projects}/>
+                    <Route path="/Contact" component={Contact}/>
+                    <Footer />
+                </div>
+            </BrowserRouter>
+        </div>
     );
   }
 }

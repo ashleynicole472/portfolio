@@ -11,15 +11,15 @@ import './Projects.css';
 class Projects extends Component {
     render(){
         return(
-            <div className="projects-container">
-                <div className="row w3-center w3-animate-bottom">
+            <div className="projects-container animated fadeIn">
+                <div className="row">
                     <div className="col-md-12">
                         <h1 className="myprojects">My Projects</h1>
                         <h5 className="gitHub"> View more projects on my <a href="http://www.github.com/ashleynicole472" target="#"><strong>GitHub</strong><i className="fab fa-github"></i></a></h5>
                         <hr />
                     </div>
                 </div>
-                <div className="row cards-center w3-center w3-animate-bottom">
+                <div className="row cards-center">
                     <div className="col-md-4 col-sm-4">
                         <div className="container">
                             <div className="card border-light mb-3">
@@ -72,7 +72,7 @@ class Projects extends Component {
                         </div>
                     </div>
                 </div>
-                <div className="row cards-center w3-center w3-animate-bottom">
+                <div className="row cards-center">
                     <div className="col-md-4 col-sm-4">
                         <div className="container">
                             <div className="card border-warning mb-3">
