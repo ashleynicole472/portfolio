@@ -32,7 +32,7 @@ class Projects extends Component {
                             </div>
                             <div className="overlay">
                                 <div className="text">
-                                <a href="https://github.com/ashleynicole472/JamAndJobSearch" target="#">Jam And Job Search. Built using ReactJS, using Brands in Town, Spotify and GitHub Job API</a>
+                                <a href="https://github.com/ashleynicole472/JamAndJobSearch" target="#">Jam And Job Search. <br/ >Built using ReactJS, Brands in Town, Spotify and GitHub Job API</a>
                                 </div>
                             </div>
                         </div>
@@ -49,7 +49,7 @@ class Projects extends Component {
                             </div>
                             <div className="overlay">
                                 <div className="text">
-                                <a href="https://github.com/ashleynicole472/HamburgerApp" target="#">Build your own Hamburger. Built using ReactJS</a>
+                                <a href="https://github.com/ashleynicole472/HamburgerApp" target="#">Build your own Hamburger. <br /> Built using ReactJS</a>
                                 </div>
                             </div>
                         </div>
@@ -66,7 +66,7 @@ class Projects extends Component {
                             </div>
                             <div className="overlay">
                                 <div className="text">
-                                    <a href="https://ashleysblog.herokuapp.com/" target="#">My Blog App Built using Ruby On Rails</a>
+                                    <a href="https://ashleysblog.herokuapp.com/" target="#">My Blog App <br /> Built using Ruby On Rails</a>
                                 </div>
                             </div>
                         </div>
@@ -85,7 +85,7 @@ class Projects extends Component {
                             </div>
                             <div className="overlay">
                                 <div className="text">
-                                    <a href="https://github.com/ashleynicole472/memeGenerator" target="#">Meme Generator built using an external API and ReactJS</a>
+                                    <a href="https://github.com/ashleynicole472/memeGenerator" target="#">Meme Generator. <br/> built using an external API and ReactJS</a>
                                 </div>
                             </div>
                         </div>
@@ -102,7 +102,7 @@ class Projects extends Component {
                             </div>
                             <div className="overlay">
                                 <div className="text">
-                                <a href="https://github.com/ashleynicole472/portfolio" target="#">My own personal portfolio was built using ReactJS, CSS, and BootStrap</a>
+                                <a href="https://github.com/ashleynicole472/portfolio" target="#">My own personal portfolio.<br /> Built using ReactJS, CSS, and BootStrap</a>
                                 </div>
                             </div>
                         </div>
@@ -119,7 +119,7 @@ class Projects extends Component {
                             </div>
                             <div className="overlay">
                                 <div className="text">
-                                <a href="https://github.com/ashleynicole472/Shakespeare-Translator" target="#">Translate modern English to Shakespeare using a Shakespeare API. Built using ReactJS</a>
+                                <a href="https://github.com/ashleynicole472/Shakespeare-Translator" target="#">Translate modern English to Shakespeare<br /> using a Shakespeare API. Built using ReactJS</a>
 
                                 </div>
                             </div>

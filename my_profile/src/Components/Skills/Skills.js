@@ -58,22 +58,51 @@ class Skills extends Component {
                 </div>
                 <div className="row">
                     <div className="col-sm-1">
-
                     </div>
                     <div className="col-sm-2">
-
+                        <div className="card text-white border-success mb-3 skills">
+                            <div className="card-header">HTML
+                            </div>
+                            <div className="card-body">
+                                <h4 className="card-title">Primary card title</h4>
+                            </div>
+                        </div>
                     </div>
                     <div className="col-sm-2">
-
+                        <div className="card text-white border-info mb-3 skills">
+                            <div className="card-header">CSS
+                            </div>
+                            <div className="card-body">
+                                <h4 className="card-title">Primary card title</h4>
+                            </div>
+                        </div>
                     </div>
                     <div className="col-sm-2">
-
+                        <div className="card text-white border-success mb-3 skills">
+                            <div className="card-header">BootStrap
+                            </div>
+                            <div className="card-body">
+                                <h4 className="card-title">Primary card title</h4>
+                            </div>
+                        </div>
                     </div>
                     <div className="col-sm-2">
-
+                        <div className="card text-white border-info mb-3 skills">
+                            <div className="card-header">Material UI
+                            </div>
+                            <div className="card-body">
+                                <h4 className="card-title">Primary card title</h4>
+                            </div>
+                        </div>
                     </div>
                     <div className="col-sm-2">
-
+                        <div className="card text-white border-info mb-3 skills last">
+                            <div className="card-header">Human
+                            </div>
+                            <div className="card-body">
+                                <h4 className="card-title">Primary card title</h4>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

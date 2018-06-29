@@ -43,9 +43,10 @@
 }
 
 a {
-    text-decoration: none;
     color: white !important;
 }
+
+/* Hover effects over project squares */
 
 .container {
   position: relative;
