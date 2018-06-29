@@ -1,3 +1,27 @@
 .Skills-container {
     margin-top: 87.26px;
+    font-family: 'Mina', sans-serif;
+}
+
+.skills {
+    max-width: 20rem;
+}
+
+.Skills-title {
+    margin-top: 20px;
+    margin-left: 35px;
+    color: #8627a9;
+    font-family: 'Oleo Script Swash Caps', cursive !important;
+}
+
+.skills-image {
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px;
+    width: auto;
+    height: auto;
+}
+
+.card-header {
+    font-size: 30px;
 }

@@ -4,7 +4,7 @@ import './Contact.css';
 class Contact extends Component {
     render(){
         return(
-            <div className="Contact-container">
+            <div className="Contact-container animated fadeIn">
                 <h1>Inside contact</h1>
             </div>
         )

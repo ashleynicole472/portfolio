@@ -15,7 +15,7 @@ class Projects extends Component {
                 <div className="row">
                     <div className="col-md-12">
                         <h1 className="myprojects">My Projects</h1>
-                        <h5 className="gitHub"> View more projects on my <a href="http://www.github.com/ashleynicole472" target="#"><strong>GitHub</strong><i className="fab fa-github"></i></a></h5>
+                        <h5 className="text"> View more projects on my <a href="http://www.github.com/ashleynicole472" target="#"><strong>GitHub</strong><i className="fab fa-github"></i></a></h5>
                         <hr />
                     </div>
                 </div>
