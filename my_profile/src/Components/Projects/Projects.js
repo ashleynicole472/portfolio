@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import NavBar from '../NavBar/NavBar.js';
 import RubyBlog from './Images/ruby_blog.png';
 import JamJob from './Images/jam_job.png';
 import Hamburger from './Images/hamburgerapp.png';

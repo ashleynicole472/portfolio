@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './AboutMe.css';
 
+
 class AboutMe extends Component {
     render(){
         return (
@@ -19,7 +20,7 @@ class AboutMe extends Component {
                     <div className="col-sm-9">
                         <h4 className="About-Ashley">Hey there,</h4>
                         <p className="Aboutme-text">
-                        Im Ashley Taylor and I am a front-end developer.<br />
+                        Im Ashley Taylor and I am a San Diego, CA based front-end developer.<br />
                         My joy for front-end development has to have come from always being involved with art throughout my entire life. As a child I loved painting
                         and drawing. During my highschool years, I took many Advanced Placement digtal photography, black and white photography,
                         painting, and pottry classes. <br />
