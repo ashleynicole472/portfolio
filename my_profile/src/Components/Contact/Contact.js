@@ -13,8 +13,8 @@ class Contact extends Component {
                 <hr />
                 <div className="row">
                     <div className="col-sm-4"></div>
-                    <div className="col-sm-3 col-sm-4">
-                        <h1>hey hi hello</h1>
+                    <div className="col-sm-4">
+                        <i className="fab fa-github-square"></i>
                     </div>
                     <div className="col-sm-4"></div>
                 </div>
@@ -28,14 +28,13 @@ class Contact extends Component {
                 <div className="row">
                     <div className="col-sm-4"></div>
                     <div className="col-sm-3">
-                        <h1>hey hi hello</h1>
+                        <h1><i className="fab fa-linkedin-in"></i></h1>
                     </div>
                     <div className="col-sm-4"></div>
                 </div>
                 <div className="row">
                     <div className="col-sm-4"></div>
-                    <div className="col-sm-3">
-                        <i className="fab fa-linkedin-in"></i>
+                    <div className="col-sm-4">
                         <a href="https://www.dropbox.com/s/t1g10yvti4d9j1r/AshleyTaylorsResume7118.pdf?dl=0"
                             target="#">Resume
                         </a>
