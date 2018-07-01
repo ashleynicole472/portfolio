@@ -20,6 +20,7 @@ class Skills extends Component {
                         <h1 className="Skills-title">Skillset</h1>
                     </div>
                 </div>
+                    <hr />
                 <div className="row">
                     <div className="col-sm-1">
                     </div>

@@ -16,7 +16,7 @@ class AboutMe extends Component {
                     </div>
                 </div>
                 <div className="row">
-                    <div className="col-md-4 col-md-offset-2 col-sm-8 col-sm-offset-4">
+                    <div className="col-md-4 col-md-offset-2 col-sm-8 col-sm-offset-2">
                         <h4 className="About-Ashley">Hey there,</h4>
                         <p className="Aboutme-text">
                         Im Ashley Taylor and I am a San Diego, CA based front-end developer.<br />

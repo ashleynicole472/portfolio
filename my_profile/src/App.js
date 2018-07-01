@@ -7,7 +7,6 @@ import AboutMe from './Components/AboutMe/AboutMe.js';
 import Skills from './Components/Skills/Skills.js';
 import Projects from './Components/Projects/Projects.js';
 import Contact from './Components/Contact/Contact.js';
-import Footer from './Components/Footer/Footer.js';
 import './bootstrap.min.css';
 
 
@@ -23,7 +22,6 @@ class App extends Component {
                     <Route path="/Skills" component={Skills}/>
                     <Route path="/Projects" component={Projects}/>
                     <Route path="/Contact" component={Contact}/>
-                <Footer />
             </div>
         </BrowserRouter>
     );

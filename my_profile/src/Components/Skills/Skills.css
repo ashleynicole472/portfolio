@@ -3,7 +3,7 @@
     font-family: 'Mina', sans-serif;
 
     background: linear-gradient(-45deg, #ce4318, #693ce7, #23A6D5, #23D5AB);
-	background-size: 400% 400%;
+	background-size: 400% 500%;
 	-webkit-animation: Gradient 25s ease infinite;
 	-moz-animation: Gradient 25s ease infinite;
 	animation: Gradient 25s ease infinite;
@@ -22,10 +22,9 @@
 }
 
 .skills-image {
-    border-radius: 25px;
+    border-radius: 15px;
     border: 2px solid #73AD21;
-    padding: 20px;
-    width: auto;
+    width: 100%;
     height: auto;
 }
 
