@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import NapD from './Images/skills.jpeg';
 import JS from './Images/js.png';
 import Reactjs from './Images/react.png';
-import Ruby from './Images/ruby.png';
+import Ruby from './Images/rb.png';
 import Rails from './Images/rails.png';
 import html5 from './Images/html.png';
 import css3 from './Images/css.png';
@@ -27,8 +27,8 @@ class Skills extends Component {
                         <div className="col-sm-2">
                         </div>
                         <div className="col-sm-2">
-                            <div className="card cards-bg text-white border-success mb-3 skills">
-                                <div className="card-body">
+                            <div className="card cards-bg text-white border-success mb-3 skills rounded-circle">
+                                <div className="card-body ">
                                     <img
                                         className="skills-icon-image"
                                         src={JS} />
@@ -36,7 +36,7 @@ class Skills extends Component {
                             </div>
                         </div>
                         <div className="col-sm-2">
-                            <div className="card cards-bg text-white border-info mb-3 skills">
+                            <div className="card cards-bg text-white border-info mb-3 skills rounded-circle">
                                 <div className="card-body">
                                     <img
                                         className="skills-icon-image"
@@ -45,7 +45,7 @@ class Skills extends Component {
                             </div>
                         </div>
                         <div className="col-sm-2">
-                            <div className="card cards-bg text-white border-success mb-3 skills">
+                            <div className="card cards-bg text-white border-success mb-3 skills rounded-circle">
                                 <div className="card-body">
                                     <img
                                         className="skills-icon-image"
@@ -54,7 +54,7 @@ class Skills extends Component {
                             </div>
                         </div>
                         <div className="col-sm-2">
-                            <div className="card cards-bg text-white border-info mb-3 skills">
+                            <div className="card cards-bg text-white border-info mb-3 skills rounded-circle">
                                 <div className="card-body">
                                     <img
                                         className="skills-icon-image"
@@ -67,7 +67,7 @@ class Skills extends Component {
                         <div className="col-sm-2">
                         </div>
                         <div className="col-sm-2">
-                            <div className="card cards-bg text-white border-info mb-3 skills">
+                            <div className="card cards-bg text-white border-info mb-3 skills rounded-circle">
                                 <div className="card-body">
                                     <img
                                         className="skills-icon-image"
@@ -76,7 +76,7 @@ class Skills extends Component {
                             </div>
                         </div>
                         <div className="col-sm-2">
-                            <div className="card cards-bg text-white border-success mb-3 skills">
+                            <div className="card cards-bg text-white border-success mb-3 skills rounded-circle">
                                 <div className="card-body">
                                     <img
                                         className="skills-icon-image"
@@ -85,7 +85,7 @@ class Skills extends Component {
                             </div>
                         </div>
                         <div className="col-sm-2">
-                            <div className="card cards-bg text-white border-info mb-3 skills">
+                            <div className="card cards-bg text-white border-info mb-3 skills rounded-circle">
                                 <div className="card-body">
                                     <img
                                         className="skills-icon-image"
@@ -94,7 +94,7 @@ class Skills extends Component {
                             </div>
                         </div>
                         <div className="col-sm-2">
-                            <div className="card cards-bg text-white border-success mb-3 skills">
+                            <div className="card cards-bg text-white border-success mb-3 skills rounded-circle">
                                 <div className="card-body">
                                     <img
                                         className="skills-icon-image"

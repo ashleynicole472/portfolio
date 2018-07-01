@@ -13,7 +13,7 @@ class Contact extends Component {
                 <hr />
                 <div className="row">
                     <div className="col-sm-4"></div>
-                    <div className="col-sm-3">
+                    <div className="col-sm-3 col-sm-4">
                         <h1>hey hi hello</h1>
                     </div>
                     <div className="col-sm-4"></div>
