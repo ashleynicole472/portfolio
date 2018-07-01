@@ -12,19 +12,16 @@ class Contact extends Component {
                 </div>
                 <hr />
                 <div className="row icon-row">
-                    <div className="col-sm-3"></div>
-                    <div className="col-sm-8 icon-list">
-                        <a href="#" target="#">
-                            <i className="fab far fa-envelope"></i>
-                        </a>
+                    <div className="col-sm-4"></div>
+                    <div className="col-sm-7 icon-list">
                         <a href="https://github.com/ashleynicole472" target="#">
-                            <i className="fab fa-github-square"></i>
+                            <i className="fab fa-github-square fabs"></i>
                         </a>
                         <a href="https://www.linkedin.com/in/0ashleytaylor/" Target="#">
-                            <i className="fab fa-linkedin-in"></i>
+                            <i className="fab fa-linkedin-in fabs"></i>
                         </a>
                         <a href="https://www.dropbox.com/s/t1g10yvti4d9j1r/AshleyTaylorsResume7118.pdf?dl=0" target="#">
-                            <i className="fab far fa-file"></i>
+                            <i className="fab far fa-file fabs"></i>
                         </a>
                     </div>
                     <div className="col-sm-3"></div>
