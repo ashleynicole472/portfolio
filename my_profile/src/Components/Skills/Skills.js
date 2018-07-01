@@ -18,11 +18,13 @@ class Skills extends Component {
             <div className="animated fadeIn">
                 <div className="Skills-container">
                     <div className="row">
-                        <div claccName="col-md-12">
-                            <h1 className="Title-Text">Skillset</h1>
+                        <div className="col-sm-12">
+                            <h3 className="Title-Text">
+                                Skillset
+                            </h3>
+                            <hr />
                         </div>
                     </div>
-                    <hr />
                     <div className="row">
                         <div className="col-sm-2">
                         </div>

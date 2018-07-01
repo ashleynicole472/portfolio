@@ -36,7 +36,7 @@ class Contact extends Component {
                     <div className="col-sm-4"></div>
                     <div className="col-sm-3">
                         <i className="fab fa-linkedin-in"></i>
-                        <a href="https://www.dropbox.com/s/1pkim2l6affyfu7/AshleyTaylorsResume627.pdf?dl=0"
+                        <a href="https://www.dropbox.com/s/t1g10yvti4d9j1r/AshleyTaylorsResume7118.pdf?dl=0"
                             target="#">Resume
                         </a>
                     </div>

@@ -6,8 +6,8 @@
     height: 475px;
 }
 
-.welcome {
-    font-size: 145px !important;
+#welcome {
+    font-size: 175px !important;
     text-align: center;
     margin-top: 175px;
     font-family: 'Oleo Script Swash Caps', cursive;
