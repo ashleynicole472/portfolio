@@ -1,0 +1,12 @@
+.Title-Text {
+    margin-top: 20px;
+    margin-left: 50px;
+    color: white;
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+hr {
+    background-color: #d2d3ca;
+    margin-left: 30px;
+    margin-right: 30px;
+}

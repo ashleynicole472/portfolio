@@ -11,15 +11,10 @@
 
 .skills {
     max-width: 20rem;
-    margin-left: 30px;
+    margin-left: 20px;
+    background-color: inherit;
 }
 
-.Skills-title {
-    margin-top: 20px;
-    margin-left: 35px;
-    color: White;
-    font-family: 'Oleo Script Swash Caps', cursive !important;
-}
 
 .skills-image {
     border-radius: 15px;
@@ -73,8 +68,3 @@
 		background-position: 0% 50%
 	}
 }
-
-
-/* .cards-bg {
-    background: linear-gradient(to bottom right, #8627a9 0%, #00ce6b 100%);
-} */

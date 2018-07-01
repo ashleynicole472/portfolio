@@ -9,10 +9,10 @@ class AboutMe extends Component {
             <div className="Aboutme-container animated fadeIn">
                 <div className="row">
                     <div className="col-sm-12">
-                        <h3 className="About-title">
+                        <h3 className="Title-Text About-title">
                             About Myself :
                         </h3>
-                        <hr className="seperate"/>
+                        <hr />
                     </div>
                 </div>
                 <div className="row">

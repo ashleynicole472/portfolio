@@ -8,6 +8,7 @@ import Skills from './Components/Skills/Skills.js';
 import Projects from './Components/Projects/Projects.js';
 import Contact from './Components/Contact/Contact.js';
 import './bootstrap.min.css';
+import './App.css';
 
 
 class App extends Component {

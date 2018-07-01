@@ -4,11 +4,8 @@
 }
 
 .About-title {
-    margin-top: 20px;
-    margin-left: 30px;
-    color: #009eda;
+    color: #009eda !important;
     font-size: 55px;
-    font-family: 'Oleo Script Swash Caps', cursive;
 }
 
 .About-Ashley {
@@ -36,12 +33,6 @@
     margin-left: 65px;
     width: 20vw;
     height: 30vw;
-}
-
-.seperate {
-    background-color: #acb5be;
-    margin-left: 10px;
-    margin-right: 10px;
 }
 
 p {
