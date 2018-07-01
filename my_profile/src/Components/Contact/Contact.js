@@ -11,35 +11,23 @@ class Contact extends Component {
                     </div>
                 </div>
                 <hr />
-                <div className="row">
-                    <div className="col-sm-4"></div>
-                    <div className="col-sm-4">
-                        <i className="fab fa-github-square"></i>
-                    </div>
-                    <div className="col-sm-4"></div>
-                </div>
-                <div className="row">
-                    <div className="col-sm-4"></div>
-                    <div className="col-sm-3">
-                        <h1>hey hi hello</h1>
-                    </div>
-                    <div className="col-sm-4"></div>
-                </div>
-                <div className="row">
-                    <div className="col-sm-4"></div>
-                    <div className="col-sm-3">
-                        <h1><i className="fab fa-linkedin-in"></i></h1>
-                    </div>
-                    <div className="col-sm-4"></div>
-                </div>
-                <div className="row">
-                    <div className="col-sm-4"></div>
-                    <div className="col-sm-4">
-                        <a href="https://www.dropbox.com/s/t1g10yvti4d9j1r/AshleyTaylorsResume7118.pdf?dl=0"
-                            target="#">Resume
+                <div className="row icon-row">
+                    <div className="col-sm-3"></div>
+                    <div className="col-sm-8 icon-list">
+                        <a href="#" target="#">
+                            <i className="fab far fa-envelope"></i>
+                        </a>
+                        <a href="https://github.com/ashleynicole472" target="#">
+                            <i className="fab fa-github-square"></i>
+                        </a>
+                        <a href="https://www.linkedin.com/in/0ashleytaylor/" Target="#">
+                            <i className="fab fa-linkedin-in"></i>
+                        </a>
+                        <a href="https://www.dropbox.com/s/t1g10yvti4d9j1r/AshleyTaylorsResume7118.pdf?dl=0" target="#">
+                            <i className="fab far fa-file"></i>
                         </a>
                     </div>
-                    <div className="col-sm-4"></div>
+                    <div className="col-sm-3"></div>
                 </div>
             </div>
         )
