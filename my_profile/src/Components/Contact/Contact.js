@@ -17,7 +17,7 @@ class Contact extends Component {
                         <a href="https://github.com/ashleynicole472" target="#">
                             <i className="fab fa-github-square fabs"></i>
                         </a>
-                        <a href="https://www.linkedin.com/in/0ashleytaylor/" Target="#">
+                        <a href="https://www.linkedin.com/in/0ashleytaylor/" target="#">
                             <i className="fab fa-linkedin-in fabs"></i>
                         </a>
                         <a href="https://www.dropbox.com/s/t1g10yvti4d9j1r/AshleyTaylorsResume7118.pdf?dl=0" target="#">

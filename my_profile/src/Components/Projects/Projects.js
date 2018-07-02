@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import NavBar from '../NavBar/NavBar.js';
 import RubyBlog from './Images/ruby_blog.png';
 import JamJob from './Images/jam_job.png';
 import Hamburger from './Images/hamburgerapp.png';
@@ -27,6 +26,7 @@ class Projects extends Component {
                                 <div className="card-body">
                                     <img
                                         className="project-image"
+                                        alt="my project"
                                         src={JamJob} />
                                 </div>
                             </div>
@@ -44,6 +44,7 @@ class Projects extends Component {
                                 <div className="card-body">
                                     <img
                                         className="project-image"
+                                        alt="my project"
                                         src={Hamburger} />
                                 </div>
                             </div>
@@ -61,6 +62,7 @@ class Projects extends Component {
                                 <div className="card-body">
                                     <img
                                         className="project-image"
+                                        alt="my project"
                                         src={RubyBlog} />
                                 </div>
                             </div>
@@ -80,6 +82,7 @@ class Projects extends Component {
                                 <div className="card-body">
                                     <img
                                         className="project-image"
+                                        alt="my project"
                                         src={Meme} />
                                 </div>
                             </div>
@@ -97,6 +100,7 @@ class Projects extends Component {
                                 <div className="card-body">
                                     <img
                                         className="project-image"
+                                        alt="my project"
                                         src={Portfolio} />
                                 </div>
                             </div>
@@ -114,6 +118,7 @@ class Projects extends Component {
                                 <div className="card-body">
                                     <img
                                         className="project-image"
+                                        alt="my project"
                                         src={Shakepear} />
                                 </div>
                             </div>

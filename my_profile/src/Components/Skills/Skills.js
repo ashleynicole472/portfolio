@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import NapD from './Images/skills.jpeg';
 import JS from './Images/js.png';
 import Reactjs from './Images/react.png';
 import Ruby from './Images/rb.png';
@@ -8,7 +7,6 @@ import html5 from './Images/html.png';
 import css3 from './Images/css.png';
 import BootStrap from './Images/boot.png';
 import GIT from './Images/github.png';
-import Human from './Images/human.png';
 
 import './Skills.css';
 
@@ -33,6 +31,7 @@ class Skills extends Component {
                                 <div className="card-body ">
                                     <img
                                         className="skills-icon-image"
+                                        alt="my skillset"
                                         src={JS} />
                                 </div>
                             </div>
@@ -42,6 +41,7 @@ class Skills extends Component {
                                 <div className="card-body">
                                     <img
                                         className="skills-icon-image"
+                                        alt="my skillset"
                                         src={Reactjs} />
                                 </div>
                             </div>
@@ -51,6 +51,7 @@ class Skills extends Component {
                                 <div className="card-body">
                                     <img
                                         className="skills-icon-image"
+                                        alt="my skillset"
                                         src={Ruby} />
                                 </div>
                             </div>
@@ -60,6 +61,7 @@ class Skills extends Component {
                                 <div className="card-body">
                                     <img
                                         className="skills-icon-image"
+                                        alt="my skillset"
                                         src={Rails} />
                                     </div>
                             </div>
@@ -73,6 +75,7 @@ class Skills extends Component {
                                 <div className="card-body">
                                     <img
                                         className="skills-icon-image"
+                                        alt="my skillset"
                                         src={html5} />
                                 </div>
                             </div>
@@ -82,6 +85,7 @@ class Skills extends Component {
                                 <div className="card-body">
                                     <img
                                         className="skills-icon-image"
+                                        alt="my skillset"
                                         src={css3} />
                                 </div>
                             </div>
@@ -91,6 +95,7 @@ class Skills extends Component {
                                 <div className="card-body">
                                     <img
                                         className="skills-icon-image"
+                                        alt="my skillset"
                                         src={BootStrap} />
                                 </div>
                             </div>
@@ -100,6 +105,7 @@ class Skills extends Component {
                                 <div className="card-body">
                                     <img
                                         className="skills-icon-image"
+                                        alt="my skillset"
                                         src={GIT} />
                                 </div>
                             </div>

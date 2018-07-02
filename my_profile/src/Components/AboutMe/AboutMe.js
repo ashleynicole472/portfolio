@@ -38,6 +38,7 @@ class AboutMe extends Component {
                     <div className="col-md-4 col-md-offset-2 col-sm-8 col-sm-offset-2 aboutMe-margin">
                         <img src={Me}
                             className="profile-pic"
+                            alt="Ashley"
                         />
                     </div>
                 </div>
