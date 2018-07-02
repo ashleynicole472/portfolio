@@ -8,10 +8,20 @@
 }
 
 .fabs {
-    font-size: 150px;
-    margin-right: 75px;
+    font-size: 170px;
+    margin-right: 20px;
 }
 
 .icon-row {
     margin-top: 200px;
+}
+
+@media (max-width: 1050px) {
+    .icon-list {
+        margin-left: 150px;
+        margin-bottom: 15px;
+    }
+    .icon-row {
+        margin-top: 50px;
+    }
 }

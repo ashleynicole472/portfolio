@@ -17,3 +17,9 @@
 .words {
     text-align: center;
 }
+
+@media (max-width: 1050px) {
+    #welcome {
+        
+    }
+}
