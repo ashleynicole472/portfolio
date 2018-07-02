@@ -8,11 +8,13 @@
 
 .text {
     font-family: 'Mina', sans-serif;
-}
-
-.gitHub {
-    font-family: 'Mina', sans-serif;
-    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
 }
 
 .card {
@@ -21,7 +23,7 @@
 }
 
 .cards-center {
-    align-items: flex-end;
+    align-items: center;
     padding: 25px;
 }
 
@@ -45,12 +47,6 @@ a {
   position: relative;
 }
 
-.image {
-  display: block;
-  width: 100%;
-  height: auto;
-}
-
 .overlay {
   position: absolute;
   top: 0;
@@ -66,14 +62,4 @@ a {
 
 .container:hover .overlay {
   opacity: 1 ;
-}
-
-.text {
-  color: white;
-  font-size: 20px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  text-align: center;
 }
