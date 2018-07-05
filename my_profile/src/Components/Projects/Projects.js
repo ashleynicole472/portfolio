@@ -49,7 +49,7 @@ class Projects extends Component {
                             </div>
                             <div className="overlay">
                                 <div className="text">
-                                <a href="https://github.com/ashleynicole472/HamburgerApp" target="#">Build your own Hamburger. <br /> Built using ReactJS</a>
+                                <a href="https://build-a-hamburger.herokuapp.com/" target="#">Build your own Hamburger. <br /> Built using ReactJS <br/> Deployed to Heroku</a>
                                 </div>
                             </div>
                         </div>
