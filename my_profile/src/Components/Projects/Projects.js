@@ -87,7 +87,7 @@ class Projects extends Component {
                             </div>
                             <div className="overlay">
                                 <div className="text">
-                                    <a href="https://github.com/ashleynicole472/memeGenerator" target="#">Meme Generator. <br/> built using an external API and ReactJS</a>
+                                    <a href="https://meme-genorater.herokuapp.com/" target="#">Meme Generator. <br/> built using an external API and ReactJS <br /> Deployed to Heroku</a>
                                 </div>
                             </div>
                         </div>
