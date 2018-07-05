@@ -123,7 +123,7 @@ class Projects extends Component {
                             </div>
                             <div className="overlay">
                                 <div className="text">
-                                <a href="https://github.com/ashleynicole472/Shakespeare-Translator" target="#">Translate modern English to Shakespeare<br /> using a Shakespeare API. Built using ReactJS</a>
+                                <a href="https://speak-shakespeare.herokuapp.com/" target="#">Translate modern English to Shakespeare<br /> using a Shakespeare API. Built using ReactJS</a>
 
                                 </div>
                             </div>
