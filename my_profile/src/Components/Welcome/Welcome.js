@@ -7,8 +7,8 @@ class Welcome extends Component {
         return(
             <div className="Welcome-Container">
                 <div className="row">
-                    <div className="col-md-12">
-                        <h1 id="welcome">Welcome</h1>
+                    <div className="col-md-12 col-lg-12">
+                        <h1 className="welcome">Welcome</h1>
                     </div>
                 </div>
             </div>
