@@ -22,7 +22,7 @@ class Contact extends Component {
                         <a href="https://github.com/ashleynicole472" target="#">
                             <i className="fab fa-github-square fabs"></i>
                         </a>
-                        <a href="https://www.dropbox.com/s/t1g10yvti4d9j1r/AshleyTaylorsResume7118.pdf?dl=0" target="#">
+                        <a href="https://www.dropbox.com/s/fashq36rbdr6wvb/AshleyTaylorsResume8918.pdf?dl=0" target="#">
                             <i className="fab far fa-file fabs"></i>
                         </a>
                     </div>
