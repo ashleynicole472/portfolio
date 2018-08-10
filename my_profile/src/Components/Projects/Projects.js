@@ -20,6 +20,25 @@ class Projects extends Component {
                 <div className="row cards-center">
                     <div className="col-md-4 col-sm-4">
                         <div className="container">
+                            <div className="card border-success mb-3">
+
+                                <div className="card-body">
+                                    <img
+                                        className="project-image"
+                                        alt="my project"
+                                        src={FitFoodie} />
+                                </div>
+                            </div>
+                            <div className="overlay">
+                                <div className="text">
+                                <a href="https://fit-foodie.herokuapp.com/" target="#">Fit-Foodie<br /> using Edamam API to allow users to search for recipes. Built using ReactJS, Bootstrap, and CSS</a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-md-4 col-sm-4">
+                        <div className="container">
                             <div className="card border-light mb-3">
 
                                 <div className="card-body">
@@ -39,7 +58,6 @@ class Projects extends Component {
                     <div className="col-md-4 col-sm-4">
                         <div className="container">
                             <div className="card border-primary mb-3">
-
                                 <div className="card-body">
                                     <img
                                         className="project-image"
@@ -54,6 +72,8 @@ class Projects extends Component {
                             </div>
                         </div>
                     </div>
+                </div>
+                <div className="row cards-center">
                     <div className="col-md-4 col-sm-4">
                         <div className="container">
                             <div className="card border-light mb-3">
@@ -72,30 +92,9 @@ class Projects extends Component {
                             </div>
                         </div>
                     </div>
-                </div>
-                <div className="row cards-center">
-                    <div className="col-md-4 col-sm-4">
-                        <div className="container">
-                            <div className="card border-warning mb-3">
-
-                                <div className="card-body">
-                                    <img
-                                        className="project-image"
-                                        alt="my project"
-                                        src={Meme} />
-                                </div>
-                            </div>
-                            <div className="overlay">
-                                <div className="text">
-                                    <a href="https://meme-genorater.herokuapp.com/" target="#">Meme Generator. <br/> built using an external API and ReactJS <br /> Deployed to Heroku</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
                     <div className="col-md-4 col-sm-4">
                         <div className="container">
                             <div className="card border-info mb-3">
-
                                 <div className="card-body">
                                     <img
                                         className="project-image"
@@ -112,19 +111,17 @@ class Projects extends Component {
                     </div>
                     <div className="col-md-4 col-sm-4">
                         <div className="container">
-                            <div className="card border-success mb-3">
-
+                            <div className="card border-warning mb-3">
                                 <div className="card-body">
                                     <img
                                         className="project-image"
                                         alt="my project"
-                                        src={FitFoodie} />
+                                        src={Meme} />
                                 </div>
                             </div>
                             <div className="overlay">
                                 <div className="text">
-                                <a href="https://fit-foodie.herokuapp.com/" target="#">Fit-Foodie<br /> using Edamam API to allow users to search for recipes. Built using ReactJS, Bootstrap, and CSS</a>
-
+                                    <a href="https://meme-genorater.herokuapp.com/" target="#">Meme Generator. <br/> built using an external API and ReactJS <br /> Deployed to Heroku</a>
                                 </div>
                             </div>
                         </div>
