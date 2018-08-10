@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import RubyBlog from './Images/ruby_blog.png';
 import JamJob from './Images/jam_job.png';
 import Hamburger from './Images/hamburgerapp.png';
-import Shakepear from './Images/shakespear.png';
+import FitFoodie from './Images/fitfoodie.png';
 import Meme from './Images/memegenerator.png';
 import Portfolio from './Images/portfolio.png';
 import './Projects.css';
@@ -118,12 +118,12 @@ class Projects extends Component {
                                     <img
                                         className="project-image"
                                         alt="my project"
-                                        src={Shakepear} />
+                                        src={FitFoodie} />
                                 </div>
                             </div>
                             <div className="overlay">
                                 <div className="text">
-                                <a href="https://speak-shakespeare.herokuapp.com/" target="#">Translate modern English to Shakespeare<br /> using a Shakespeare API. Built using ReactJS</a>
+                                <a href="https://fit-foodie.herokuapp.com/" target="#">Fit-Foodie<br /> using Edamam API to allow users to search for recipes. Built using ReactJS, Bootstrap, and CSS</a>
 
                                 </div>
                             </div>

@@ -22,7 +22,7 @@ class AboutMe extends Component {
                           I am Ashley Taylor, a San Diego, CA based front-end developer.
                           <br />
                           My joy for front-end development has come from always being involved with art throughout my life. As a child, I loved painting
-                          and drawing. During my highschool years, I took many advanced placement classes such as digtal photography, black and white photography,
+                          and drawing. During my highschool years, I took many advanced placement classes such as digital photography, black and white photography,
                           painting, and pottery.
                           <br />
                           Having been surrounded by art throughout my life has helped me with designing my own personal
